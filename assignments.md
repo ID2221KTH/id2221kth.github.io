@@ -3,18 +3,13 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-This course consists of four lab assignments, three reading assignments, and one final project. All the assignments/project should be done in group of two.
-The assignments have to be submitted before their deadlines.
-
-
-has four types of requirements:
+This course consists of four lab assignments, three reading assignments, and one final project. All the assignments/project should be done in group of two. The assignments have to be submitted before their deadlines. The points are distributed accordingly:
 <ul>
 <li>Four lab assignments (30 points)</li>
 <li>Three reading assignments (15 points)</li>
 <li>The final project (15 points)</li>
 <li>The final exam (40 points)</li>
 </ul>
-Students will work in groups of 2. Assignments have to be submitted online before their deadlines.
 
 
 # **Lab Assignments**
