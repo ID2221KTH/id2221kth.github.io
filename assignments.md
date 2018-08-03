@@ -3,7 +3,7 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-This course consists of four lab assignments, three reading assignments, and one final project. All the assignments/project should be done in group of two. The assignments have to be submitted before their deadlines. The points are distributed accordingly:
+This course consists of four lab assignments, three reading assignments, and one final project. All the assignments/project should be done in groups of two and have to be submitted before their deadlines. The points are distributed accordingly:
 <ul>
 <li>Four lab assignments (30 points)</li>
 <li>Three reading assignments (15 points)</li>
@@ -13,7 +13,7 @@ This course consists of four lab assignments, three reading assignments, and one
 
 <hr>
 # **Lab Assignments**
-The lab assignments span over different topics of the course. For each lab, a zip file is given that covers the instructions of doing the assignment.
+The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
 * <b>Lab 1:</b> in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
   - Download [lab1]()
@@ -30,11 +30,11 @@ The lab assignments span over different topics of the course. For each lab, a zi
 
 <hr>
 # **Reading Assignments**
-For each reading assignments, you are asked to read two papers and write a short review (max. three pages). Each reading assignment has five points. The reviews should have the following parts:
+For each reading assignment, you are asked to read two papers and write a short review (max. three pages). Each reading assignment has five points. The reviews should have the following sections:
 * **Motivation:** describe the motivation of the paper, and explain WHY the addressed problem is interesting and important to be solved.
 * **Contributions:** explain the main contributions of the paper, and present WHAT the solved problems are.
 * **Solution:** very briefly explain HOW the authors solve the mentioned problems.
-* **You opinion:** compare the two papers and explain how they are related to each other.
+* **You opinion:** compare the two papers and explain how they are related to/different from each other.
 
 ### General reading instruction
 * How to read a paper [[pdf]](/papers/paper-reading.pdf)
@@ -56,9 +56,9 @@ For each reading assignments, you are asked to read two papers and write a short
 # **Project**
 You should define your own project by writing at most one page description of the project, and getting your project proposal approved by the examiner. The project proposal should cover the following headings:
 * **Problem description:** what is the problem that you will be investigating?
-* **Tools:** what tools you are going to use in the project? In the course we mainly used Spark, but you are welcome to explore new tools and technologies.
-* **Data:** what data will you use? If you are collecting new datasets, how do you plan to collect it?
-* **Methodology and algorithm:** what method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations?
+* **Tools:** what tools you are going to use? In the course we mainly used Spark, but you are free to explore new tools and technologies.
+* **Data:** what data will you use and how are you going to collect it? 
+* **Methodology and algorithm:** what method(s) or algorithm(s) are you proposing? 
 
 ### What to deliver
-You can implement your code using Jupyter Notebook or as a stand alone application. You should should submit a zipfile containing your code and short report (2 pages is enough) on your project, the dataset, your method, your results, and how to run your project.
+You can implement your code using Jupyter Notebook or as a stand alone application. You should submit a zip file containing your code and a short report (two to three pages) about what you have done, the dataset, your method, your results, and how to run the code.
