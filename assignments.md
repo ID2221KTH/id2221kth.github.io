@@ -29,7 +29,7 @@ The lab assignments span over different topics of the course. For each lab, a zi
   - Deadline 2018/10/14
 
 # **Reading Assignments**
-For each reading assignments, you are asked to read two papers and write a short review (max. three pages) for them. The reviews should have the following parts:
+For each reading assignments, you are asked to read two papers and write a short review (max. three pages). Each reading assignment has five points. The reviews should have the following parts:
 * **Motivation:** describe the motivation of the paper, and explain WHY the addressed problem is interesting and important to be solved.
 * **Contributions:** explain the main contributions of the paper, and present WHAT the solved problems are.
 * **Solution:** very briefly explain HOW the authors solve the mentioned problems.
