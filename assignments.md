@@ -11,23 +11,24 @@ This course consists of four lab assignments, three reading assignments, and one
 <li>The final exam (40 points)</li>
 </ul>
 
-
+<hr>
 # **Lab Assignments**
 The lab assignments span over different topics of the course. For each lab, a zip file is given that covers the instructions of doing the assignment.
 
-* **Lab 1:** in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
+* <b>Lab 1:</b> in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
   - Download [lab1]()
   - Deadline 2018/09/23
-* **Lab 2:** the second lab assignment is based of the Spark and Spark SQL, and you will learn how to use them to process and analyze data (8 points).
+* <b>Lab 2:</b> the second lab assignment is based of the Spark and Spark SQL, and you will learn how to use them to process and analyze data (8 points).
   - Download [lab2]()
   - Deadline 2018/09/30
-* **Lab 3:** the concentration of this lab assignment is to process streaming data. You will work with Spark Streaming in this lab to process data on-line as it flows (8 points).
+* <b>Lab 3:</b> the concentration of this lab assignment is to process streaming data. You will work with Spark Streaming in this lab to process data on-line as it flows (8 points).
   - Download [lab3]()
   - Deadline 2018/10/07
-* **Lab 4:** in the last assignment you will work with GraphX to process graph-based data (7 points).
+* <b>Lab 4:</b> in the last assignment you will work with GraphX to process graph-based data (7 points).
   - Download [lab4]()
   - Deadline 2018/10/14
 
+<hr>
 # **Reading Assignments**
 For each reading assignments, you are asked to read two papers and write a short review (max. three pages). Each reading assignment has five points. The reviews should have the following parts:
 * **Motivation:** describe the motivation of the paper, and explain WHY the addressed problem is interesting and important to be solved.
@@ -51,6 +52,7 @@ For each reading assignments, you are asked to read two papers and write a short
   - Discretized Streams: Fault-Tolerant Streaming Computation at Scale [[pdf]](/papers/2013 - Discretized Streams: Fault-Tolerant Streaming Computation at Scale (SOSP).pdf)
   - Apache Flink: Stream and Batch Processing in a Single Engine [[pdf]](/papers/2015 - Apache Flink: Stream and Batch Processing in a Single Engine.pdf)
 
+<hr>
 # **Project**
 You should define your own project by writing at most one page description of the project, and getting your project proposal approved by the examiner. The project proposal should cover the following headings:
 * **Problem description:** what is the problem that you will be investigating?
