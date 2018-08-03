@@ -13,7 +13,7 @@ This course consists of four lab assignments, three reading assignments, and one
 
 
 # **Lab Assignments**
-The lab assignments span over different topics of the course. For each lab, a zip file is provided that covers the instructions of doing the assignment.
+The lab assignments span over different topics of the course. For each lab, a zip file is given that covers the instructions of doing the assignment.
 
 * **Lab 1:** in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
   - Download [lab1]()
