@@ -1,0 +1,67 @@
+---
+layout: page
+title: Assignments
+permalink: /assignments/
+---
+This course consists of four lab assignments, three reading assignments, and one final project. All the assignments/project should be done in group of two.
+The assignments have to be submitted before their deadlines.
+
+
+has four types of requirements:
+<ul>
+<li>Four lab assignments (30 points)</li>
+<li>Three reading assignments (15 points)</li>
+<li>The final project (15 points)</li>
+<li>The final exam (40 points)</li>
+</ul>
+Students will work in groups of 2. Assignments have to be submitted online before their deadlines.
+
+
+# **Lab Assignments**
+The lab assignments span over different topics of the course. For each lab, a zip file is provided that covers the instructions of doing the assignment.
+
+* **Lab 1:** in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
+  - Download [lab1]()
+  - Deadline 2018/09/23
+* **Lab 2:** the second lab assignment is based of the Spark and Spark SQL, and you will learn how to use them to process and analyze data (8 points).
+  - Download [lab2]()
+  - Deadline 2018/09/30
+* **Lab 3:** the concentration of this lab assignment is to process streaming data. You will work with Spark Streaming in this lab to process data on-line as it flows (8 points).
+  - Download [lab3]()
+  - Deadline 2018/10/07
+* **Lab 4:** in the last assignment you will work with GraphX to process graph-based data (7 points).
+  - Download [lab4]()
+  - Deadline 2018/10/14
+
+# **Reading Assignments**
+For each reading assignments, you are asked to read two papers and write a short review (max. three pages) for them. The reviews should have the following parts:
+* **Motivation:** describe the motivation of the paper, and explain WHY the addressed problem is interesting and important to be solved.
+* **Contributions:** explain the main contributions of the paper, and present WHAT the solved problems are.
+* **Solution:** very briefly explain HOW the authors solve the mentioned problems.
+* **You opinion:** compare the two papers and explain how they are related to each other.
+
+### General reading instruction
+* How to read a paper [[pdf]](/papers/paper-reading.pdf)
+* How to write a review [[pdf]](/papers/review-writing.pdf)
+* It is strongly recommended to use the given templates [[latex]](/papers/latex_template.tex) [[word]](/papers/word_template.tex)
+
+### Papers
+* **Reading assignmet 1:** GFS and MapReduce
+  - The Google File System [[pdf]](/papers/2003 - The Google File System (SOSP).pdf)
+  - MapReduce Simplifed Data Processing on Large Clusters [[pdf]](/papers/2004 - MapReduce  Simplifed Data Processing on Large Clusters (OSDI).pdf)
+* **Reading assignmet 2:** Spark and Spark SQL
+  - Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing [[pdf]](/papers/2012 - Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (NSDI).pdf)
+  - Spark SQL: Relational Data Processing in Spark [[pdf]](/papers/2015 - Spark SQL - Relational Data Processing in Spark (SIGMOD).pdf)
+* **Reading assignmet 3:** Spark Streaming and Flink
+  - Discretized Streams: Fault-Tolerant Streaming Computation at Scale [[pdf]](/papers/2013 - Discretized Streams: Fault-Tolerant Streaming Computation at Scale (SOSP).pdf)
+  - Apache Flink: Stream and Batch Processing in a Single Engine [[pdf]](/papers/2015 - Apache Flink: Stream and Batch Processing in a Single Engine.pdf)
+
+# **Project**
+You should define your own project by writing at most one page description of the project, and getting your project proposal approved by the examiner. The project proposal should cover the following headings:
+* **Problem description:** what is the problem that you will be investigating?
+* **Tools:** what tools you are going to use in the project? In the course we mainly used Spark, but you are welcome to explore new tools and technologies.
+* **Data:** what data will you use? If you are collecting new datasets, how do you plan to collect it?
+* **Methodology and algorithm:** what method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations?
+
+### What to deliver
+You can implement your code using Jupyter Notebook or as a stand alone application. You should should submit a zipfile containing your code and short report (2 pages is enough) on your project, the dataset, your method, your results, and how to run your project.
