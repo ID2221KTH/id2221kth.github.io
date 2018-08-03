@@ -12,7 +12,6 @@ This course consists of four lab assignments, three reading assignments, and one
 </ul>
 
 <br>
-<br>
 <hr>
 <br>
 # **Lab Assignments**
@@ -31,7 +30,6 @@ The lab assignments span over different topics of the course. For each lab, a zi
   - Download [lab4]()
   - Deadline 2018/10/14
 
-<br>
 <br>
 <hr>
 <br>
@@ -58,7 +56,6 @@ For each reading assignment, you are asked to read two papers and write a short 
   - Discretized Streams: Fault-Tolerant Streaming Computation at Scale [[pdf]](/papers/2013 - Discretized Streams: Fault-Tolerant Streaming Computation at Scale (SOSP).pdf)
   - Apache Flink: Stream and Batch Processing in a Single Engine [[pdf]](/papers/2015 - Apache Flink: Stream and Batch Processing in a Single Engine.pdf)
 
-<br>
 <br>
 <hr>
 <br>
