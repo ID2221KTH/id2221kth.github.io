@@ -43,7 +43,7 @@ For each reading assignment, you are asked to read two papers and write a short 
 ### General reading instruction
 * How to read a paper [[pdf]](/papers/paper-reading.pdf)
 * How to write a review [[pdf]](/papers/review-writing.pdf)
-* It is strongly recommended to use the given templates [[latex]](/papers/latex_template.tex) [[word]](/papers/word_template.tex)
+* It is strongly recommended to use the given templates [[latex]](/papers/latex_template.tex) [[word]](/papers/word_template.doc)
 
 ### Papers
 * **Reading assignmet 1:** GFS and MapReduce
