@@ -41,24 +41,23 @@ For each reading assignment, you are asked to read two papers and write a short 
 * **You opinion:** compare the two papers and explain how they are related to/different from each other.
 
 ### General reading instruction
-* How to read a paper [[pdf]](/papers/paper-reading.pdf)
-* How to write a review [[pdf]](/papers/review-writing.pdf)
-* It is strongly recommended to use the given templates [[latex]](/papers/latex_template.tex) [[word]](/papers/word_template.doc)
+* How to read a paper [[pdf](/papers/paper-reading.pdf)]
+* How to write a review [[pdf](/papers/review-writing.pdf)]
+* It is strongly recommended to use the given templates [[latex](/papers/latex_template.tex)] [[word](/papers/word_template.doc)]
 
 ### Papers
 * **Reading assignmet 1:** GFS and MapReduce
-  - The Google File System [[pdf]](/papers/2003 - The Google File System (SOSP).pdf)
-  - MapReduce Simplifed Data Processing on Large Clusters [[pdf]](/papers/2004 - MapReduce  Simplifed Data Processing on Large Clusters (OSDI).pdf)
+  - The Google File System [[pdf](/papers/2003 - The Google File System (SOSP).pdf)]
+  - MapReduce Simplifed Data Processing on Large Clusters [[pdf](/papers/2004 - MapReduce  Simplifed Data Processing on Large Clusters (OSDI).pdf)]
   - Deadline 2018/09/24
 * **Reading assignmet 2:** Spark and Spark SQL
   - Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing [[pdf]](/papers/2012 - Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (NSDI).pdf)
-  - Spark SQL: Relational Data Processing in Spark [[pdf]](/papers/2015 - Spark SQL - Relational Data Processing in Spark (SIGMOD).pdf)
+  - Spark SQL: Relational Data Processing in Spark [[pdf](/papers/2015 - Spark SQL - Relational Data Processing in Spark (SIGMOD).pdf)]
   - Deadline 2018/10/05
 * **Reading assignmet 3:** Spark Streaming and Flink
   - Discretized Streams: Fault-Tolerant Streaming Computation at Scale [[pdf]](/papers/2013 - Discretized Streams: Fault-Tolerant Streaming Computation at Scale (SOSP).pdf)
-  - Apache Flink: Stream and Batch Processing in a Single Engine [[pdf]](/papers/2015 - Apache Flink: Stream and Batch Processing in a Single Engine.pdf)
+  - Apache Flink: Stream and Batch Processing in a Single Engine [[pdf](/papers/2015 - Apache Flink: Stream and Batch Processing in a Single Engine.pdf)]
   - Deadline 2018/10/14
-
 <br>
 <hr>
 <br>
