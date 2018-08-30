@@ -18,16 +18,16 @@ This course consists of four lab assignments, three reading assignments, and one
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
 * **Lab 1:** in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
-  - Download [lab1]()
+  - Download [[lab1](https://www.dropbox.com/s/whu2b7s5dhp3skw/lab1.zip?dl=0)]
   - Deadline 2018/09/23
 * **Lab 2:** the second lab assignment is based of the Spark and Spark SQL, and you will learn how to use them to process and analyze data (8 points).
-  - Download [lab2]()
+  - Download [lab2]
   - Deadline 2018/09/30
 * **Lab 3:** the concentration of this lab assignment is to process streaming data. You will work with Spark Streaming in this lab to process data on-line as it flows (8 points).
-  - Download [lab3]()
+  - Download [lab3]
   - Deadline 2018/10/07
 * **Lab 4:** in the last assignment you will work with GraphX to process graph-based data (7 points).
-  - Download [lab4]()
+  - Download [lab4]
   - Deadline 2018/10/14
 
 <br>
