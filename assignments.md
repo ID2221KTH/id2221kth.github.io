@@ -38,7 +38,7 @@ For each reading assignment, you are asked to read two papers and write a short 
 * **Motivation:** describe the motivation of the paper, and explain WHY the addressed problem is interesting and important to be solved.
 * **Contributions:** explain the main contributions of the paper, and present WHAT the solved problems are.
 * **Solution:** very briefly explain HOW the authors solve the mentioned problems.
-* **You opinion:** compare the two papers and explain how they are related to/different from each other.
+* **Your opinion:** compare the two papers and explain how they are related to/different from each other.
 
 ### General reading instruction
 * How to read a paper [[pdf](/papers/paper-reading.pdf)]
