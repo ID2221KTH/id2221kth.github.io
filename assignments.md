@@ -18,7 +18,7 @@ This course consists of four lab assignments, three reading assignments, and one
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
 * **Lab 1:** in the first lab assignment you will practice the basics of the data intensive programming by setting up HDFS and Hadoop MapReduce and implementing a simple application on them (7 points)
-  - Download [[lab1](https://www.dropbox.com/s/3n4c6ck2vruxiez/lab1.zip?dl=0)]
+  - Download [[lab1](https://www.dropbox.com/s/5vf8jnv5rk91i0c/lab1.zip?dl=0)]
   - Deadline 2018/09/23
 * **Lab 2:** the second lab assignment is based of the Spark and Spark SQL, and you will learn how to use them to process and analyze data (8 points).
   - Download [lab2]
