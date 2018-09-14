@@ -21,7 +21,7 @@ The lab assignments span over different topics of the course. For each lab, a zi
   - Download [[lab1](https://www.dropbox.com/s/5vf8jnv5rk91i0c/lab1.zip?dl=0)]
   - Deadline 2018/09/23
 * **Lab 2:** the second lab assignment is based of the Spark and Spark SQL, and you will learn how to use them to process and analyze data (8 points).
-  - Download [lab2]
+  - Download [[lab2](https://www.dropbox.com/s/75f6pgg13oz4qpv/lab2.zip?dl=0)]
   - Deadline 2018/09/30
 * **Lab 3:** the concentration of this lab assignment is to process streaming data. You will work with Spark Streaming in this lab to process data on-line as it flows (8 points).
   - Download [lab3]
