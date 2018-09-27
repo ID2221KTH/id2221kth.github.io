@@ -24,7 +24,7 @@ The lab assignments span over different topics of the course. For each lab, a zi
   - Download [[lab2](https://www.dropbox.com/s/75f6pgg13oz4qpv/lab2.zip?dl=0)]
   - Deadline 2018/09/30
 * **Lab 3:** the concentration of this lab assignment is to process streaming data. You will work with Spark Streaming in this lab to process data on-line as it flows (8 points).
-  - Download [lab3]
+  - Download [[lab3](https://www.dropbox.com/s/698cuacom3o6toz/lab3.zip?dl=0)]
   - Deadline 2018/10/07
 * **Lab 4:** in the last assignment you will work with GraphX to process graph-based data (7 points).
   - Download [lab4]
