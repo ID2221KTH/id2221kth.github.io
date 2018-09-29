@@ -27,7 +27,7 @@ The lab assignments span over different topics of the course. For each lab, a zi
   - Download [[lab3](https://www.dropbox.com/s/698cuacom3o6toz/lab3.zip?dl=0)]
   - Deadline 2018/10/07
 * **Lab 4:** in the last assignment you will work with GraphX to process graph-based data (7 points).
-  - Download [lab4]
+  - Download [[lab4](https://www.dropbox.com/s/g4rzyhocg48wkn3/lab4.zip?dl=0)]
   - Deadline 2018/10/14
 
 <br>
