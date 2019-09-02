@@ -14,6 +14,14 @@ half, otherwise they are rounded down. For example, 3.6 will be rounded to 4, an
 <br>
 <hr>
 <br>
+# **Review Questions**
+We have one review question per week. To pass each review question, you should answer correctly to 75% of questions.
+
+* **Review questions 1:** questions about the distributed file systems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
+
+<br>
+<hr>
+<br>
 # **Lab Assignments**
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
