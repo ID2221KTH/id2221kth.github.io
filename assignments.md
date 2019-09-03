@@ -44,7 +44,7 @@ The reviews should have the following sections:
 * It is strongly recommended to use the given templates [[latex](/papers/latex_template.tex)] [[word](/papers/word_template.doc)]
 
 ### Papers
-* You can find the list of papers [[here](https://kth.instructure.com/courses/12366/files/folder/Reading%20Assignment%20Papers)].
+* You can find the list of papers [here](https://kth.instructure.com/courses/12366/files/folder/Reading%20Assignment%20Papers).
 
 <br>
 <hr>
