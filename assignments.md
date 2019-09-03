@@ -25,7 +25,7 @@ We have one review question per week. To pass each review question, you should a
 # **Lab Assignments**
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
-* **TBA**
+* **Lab 1:** In this lab assignment you will practice the basics of data intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL, and implementing simple applications on them. You can download the assignment from [[here](https://www.dropbox.com/s/izydgvh6tgo5ql6/lab1.zip?dl=0)].
 
 <br>
 <hr>
