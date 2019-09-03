@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 This course consists of seven review questions, two reading assignments, two lab assignments, and one final project. All the assignments should be done in groups of two and have to be submitted before their deadlines. 
-The review questions and the reading assignments are Pass/Fail assignments, and the labs and the project are graded from A to E. To pass the course, you should pass all the review and the reading assignments, and
+The review questions and the reading assignments are Pass/Fail assignments, and the labs and the project are graded from A to F. To pass the course, you should pass all the review and the reading assignments, and
 get at least E in all the other assignments and the final exam.
 
 ### The Final Grade
