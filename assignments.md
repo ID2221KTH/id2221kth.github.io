@@ -17,7 +17,8 @@ half, otherwise they are rounded down. For example, 3.6 will be rounded to 4, an
 # **Review Questions**
 We have one review question per week. To pass each review question, you should answer correctly to 75% of questions.
 
-* **Review questions 1:** questions about the distributed file systems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
+* **Review questions 1:** distributed file systems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
+* **Review questions 2:** data-parallel processing systems [[pdf](/assignments/review_questions2.pdf)]
 
 <br>
 <hr>
