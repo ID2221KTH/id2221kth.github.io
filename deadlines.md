@@ -17,7 +17,7 @@ permalink: /deadlines/
 
 # Reading Assignments
 * **RA1** - deadline: Sep. 15
-* **RA2** - deadline: Sep. 28
+* **RA2** - deadline: Sep. 29
 
 <br>
 
