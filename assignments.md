@@ -19,6 +19,7 @@ We have one review question per week. To pass each review question, you should a
 
 * **Review questions 1:** distributed file systems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
 * **Review questions 2:** data-parallel processing systems [[pdf](/assignments/review_questions2.pdf)]
+* **Review questions 2:** structured-data and streaming-data processing systems [[pdf](/assignments/review_questions3.pdf)]
 
 <br>
 <hr>
