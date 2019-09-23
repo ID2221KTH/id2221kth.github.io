@@ -29,6 +29,7 @@ We have one review question per week. To pass each review question, you should a
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
 * **Lab 1:** In this lab assignment you will practice the basics of data intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL, and implementing simple applications on them. You can download the assignment from [here](https://www.dropbox.com/s/izydgvh6tgo5ql6/lab1.zip?dl=0).
+* **Lab 2:** In this lab assignment, you will practice stream processing and graph processing using Spark Streaming, Apache Kafka, Apache Cassandra, and GraphX. The deliverable for this assignment should be a single zip file, as explained in the last section of the PDF file. You can download the assignment files from [here](https://www.dropbox.com/s/bb0j8433ke4x03r/lab2.zip?dl=0).
 
 <br>
 <hr>
