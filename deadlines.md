@@ -11,7 +11,6 @@ permalink: /deadlines/
 * **RQ4** - deadline: Sep. 29
 * **RQ5** - deadline: Oct. 6
 * **RQ6** - deadline: Oct. 13
-* **RQ7** - deadline: Oct. 20
 
 <br>
 
