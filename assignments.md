@@ -22,6 +22,7 @@ We have one review question per week. To pass each review question, you should a
 * **Review questions 3:** structured-data and streaming-data processing systems [[pdf](/assignments/review_questions3.pdf)]
 * **Review questions 4:** streaming-data processing systems [[pdf](/assignments/review_questions4.pdf)]
 * **Review questions 5:** graph-parallel processing systems [[pdf](/assignments/review_questions5.pdf)]
+* **Review questions 6:** graph-parallel processing systems and resource management [[pdf](/assignments/review_questions6.pdf)]
 
 <br>
 <hr>
