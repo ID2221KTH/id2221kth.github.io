@@ -5,31 +5,24 @@ permalink: /deadlines/
 ---
 
 # Review Questions
-* **RQ1** - deadline: Sep. 8
-* **RQ2** - deadline: Sep. 15
-* **RQ3** - deadline: Sep. 22
-* **RQ4** - deadline: Sep. 29
-* **RQ5** - deadline: Oct. 6
-* **RQ6** - deadline: Oct. 13
+* **TBA**
 
 <br>
 
 # Reading Assignments
-* **RA1** - deadline: Sep. 15
-* **RA2** - deadline: Sep. 29
+* **TBA**
 
 <br>
 
 # Lab Assignments
-* **Lab1** - deadline: Sep. 22
-* **Lab2** - deadline: Oct. 6
+* **TBA**
 
 <br>
 
 # The Final Project
-* Deadline: Oct. 27
+* **TBA**
 
 <br>
 
 # The Final Exam
-* Deadline: Oct. 18
+* **TBA**
