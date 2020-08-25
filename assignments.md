@@ -3,9 +3,13 @@ layout: page
 title: Assignments 
 permalink: /assignments/
 ---
-This course consists of six review questions, one reading assignments, two lab assignments, and one final project. All the assignments should be done in groups of two and have to be submitted before their deadlines. 
-The review questions and the reading assignment are Pass/Fail assignments, and the labs and the project are graded from A to F. To pass the course, you should pass all the review and the reading assignments, and
-get at least E in all the other assignments and the final exam.
+This course consists of seven review questions, two lab assignments, and one final project. All the assignments should be done in groups of two and have to be submitted before their deadlines.
+All the assignments are graded. The review questions are graded A-F. The two lab assignments have A, C, and E grading. To deliver the labs, students should submit the source codes before the deadlines and
+give an oral presentation about their implementations. They also need to answer to the questions that include basic and advanced questions. If a group implement the labs and answer all the questions, 
+they will get A. If they can only answer the basic questions they will get C, and if they cannot answer the questions, they will get E. The final project has A-D grading. Students should propose a topic 
+to implement as the final project. Based on the complexity of the proposal it could be an A-level proposal or a C-level proposal. This assignment also includes an oral presentation. If students implement
+the proposed topic, and can answer the questions in the oral exam, they will get either A or C, depends on the difficulty level of the topic. If they just do the implementation, but cannot answer the 
+questions, the grades would be B or D, respectively.
 
 ### The Final Grade
 The final grade is the average of the two labs, the project, and the final exam. To compute the final grade, you can map A-F to 5-1, and take the average. The floating values are rounded up if they are more than
