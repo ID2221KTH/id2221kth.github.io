@@ -34,25 +34,6 @@ The lab assignments span over different topics of the course. For each lab, a zi
 <br>
 <hr>
 <br>
-# **Reading Assignments**
-For the reading assignment, you are asked to choose a paper form the list of given papers, or propose a paper youself that should be approved by the instructures.
-The reviews should have the following sections:
-* **Motivation:** describe the motivation of the paper, and explain WHY the addressed problem is interesting and important to be solved.
-* **Contributions:** explain the main contributions of the paper, and present WHAT the solved problems are.
-* **Solution:** very briefly explain HOW the authors solve the mentioned problems.
-* **Strong and weak points:** What are the strong and weak points of the paper? 
-
-### General reading instruction
-* How to read a paper [[pdf](/papers/paper-reading.pdf)]
-* How to write a review [[pdf](/papers/review-writing.pdf)]
-* It is strongly recommended to use the given templates [[latex](/papers/latex_template.tex)] [[word](/papers/word_template.doc)]
-
-### Papers
-* You can find the list of papers [here].
-
-<br>
-<hr>
-<br>
 # **Project**
 You should define your own project by writing at most one page description of the project, and getting your project proposal approved by the examiner. The project proposal should cover the following headings:
 * **Problem description:** what is the problem that you will be investigating?
