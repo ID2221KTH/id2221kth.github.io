@@ -9,11 +9,6 @@ permalink: /deadlines/
 
 <br>
 
-# Reading Assignments
-* **TBA**
-
-<br>
-
 # Lab Assignments
 * **TBA**
 
@@ -22,7 +17,3 @@ permalink: /deadlines/
 # The Final Project
 * **TBA**
 
-<br>
-
-# The Final Exam
-* **TBA**
