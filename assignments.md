@@ -12,7 +12,7 @@ the proposed topic and answer the questions in the oral exam, they will get eith
 questions, the grades would be B or D, respectively.
 
 ### The Final Grade
-The final grade is the average of the two labs, the project, and the final exam. To compute the final grade, you can map A-F to 5-1, and take the average. The floating values are rounded up if they are more than
+The final grade is the average of the two labs, the project, and the review questions. To compute the final grade, you can map A-F to 5-1, and take the average. The floating values are rounded up if they are more than
 half, otherwise they are rounded down. For example, 3.6 will be rounded to 4, and 4.2 will be rounded to 4.
 
 <br>
