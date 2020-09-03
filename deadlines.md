@@ -16,8 +16,8 @@ permalink: /deadlines/
 <br>
 
 # Lab Assignments
-* **Lab1** - deadline: Sep. 27
-* **Lab2** - deadline: Oct. 11
+* **Lab1** - deadline: Oct. 1
+* **Lab2** - deadline: Oct. 12
 
 <br>
 
