@@ -22,7 +22,7 @@ half, otherwise they are rounded down. For example, 3.6 will be rounded to 4, an
 We have one review question per week. Each review question has five points.
 
 * **Review questions 1:** distributed file systems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
-
+* **Review questions 2:** data-parallel processing systems [[pdf](/assignments/review_questions2.pdf)]
 
 <br>
 <hr>
