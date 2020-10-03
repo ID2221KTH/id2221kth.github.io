@@ -26,6 +26,7 @@ We have one review question per week. Each review question has five points.
 * **Review questions 3:** structured-data and streaming-data processing systems [[pdf](/assignments/review_questions3.pdf)]
 * **Review questions 4:** streaming-data processing systems [[pdf](/assignments/review_questions4.pdf)]
 * **Review questions 5:** graph-parallel processing systems [[pdf](/assignments/review_questions5.pdf)]
+* **Review questions 6:** the course review [[pdf](/assignments/review_questions6.pdf)]
 
 <br>
 <hr>
