@@ -23,5 +23,4 @@ permalink: /deadlines/
 # The Final Project
 * **Proposal** - deadline: Oct. 1
 * **Project** - deadline: Oct. 25
-* **TBA**
 
