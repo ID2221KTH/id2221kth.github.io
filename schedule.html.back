@@ -82,11 +82,9 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-08<br>15:00-17:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Parallel Data Processing<br>(MapReduce, FlumeJava)</td>
+<td valign=top>Data Lake</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>MapReduce Simplifed Data Processing on Large Clusters [<a href="/papers/2004 - MapReduce  Simplifed Data Processing on Large Clusters (OSDI).pdf">pdf</a>]
-<br>FlumeJava: Easy, Efficient Data-Parallel Pipelines [<a href="/papers/2010 - FlumeJava - Easy, Efficient Data-Parallel Pipelines (PLDI).pdf">pdf</a>]
-<br>Data-Intensive Text Processing with MapReduce (Ch. 2-3)</td>
+<td valign=top>TBA</td>
 </tr>
 
 <tr>
@@ -105,12 +103,11 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-13<br>10:00-12:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Parallel Data Processing<br>(Spark)</td>
+<td valign=top>Parallel Data Processing<br>(MapReduce, FlumeJava)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing [<a href="/papers/2012 - Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (NSDI).pdf">pdf</a>]
-<br>Spark - The Definitive Guide (Ch. 2, 12-14)
-<br>Learning Spark (Ch. 1-2)
-<br>Spark Documentation [<a href="https://spark.apache.org/docs/latest/rdd-programming-guide.html">link</a>]</td>
+<td valign=top>MapReduce Simplifed Data Processing on Large Clusters [<a href="/papers/2004 - MapReduce  Simplifed Data Processing on Large Clusters (OSDI).pdf">pdf</a>]
+<br>FlumeJava: Easy, Efficient Data-Parallel Pipelines [<a href="/papers/2010 - FlumeJava - Easy, Efficient Data-Parallel Pipelines (PLDI).pdf">pdf</a>]
+<br>Data-Intensive Text Processing with MapReduce (Ch. 2-3)</td>
 </tr>
 
 <tr>
@@ -120,13 +117,12 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-14<br>13:00-15:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Structured Data Processing<br>(Spark SQL)</td>
+<td valign=top>Parallel Data Processing<br>(Spark)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>Spark SQL: Relational Data Processing in Spark [<a href="/papers/2015 - Spark SQL - Relational Data Processing in Spark (SIGMOD).pdf">pdf</a>]
-<br>Spark - The Definitive Guide (Ch. 4-11)
-<br>Learning Spark (Ch. 3-6)
-<br>Spark SQL Documentation [<a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">link</a>]</td>
-</td>
+<td valign=top>Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing [<a href="/papers/2012 - Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (NSDI).pdf">pdf</a>]
+<br>Spark - The Definitive Guide (Ch. 2, 12-14)
+<br>Learning Spark (Ch. 1-2)
+<br>Spark Documentation [<a href="https://spark.apache.org/docs/latest/rdd-programming-guide.html">link</a>]</td>
 </tr>
 
 <tr>
@@ -157,11 +153,12 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-20<br>8:00-10:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Stream Processing<br>(Introduction, Kafka)</td>
+<td valign=top>Structured Data Processing<br>(Spark SQL)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>Kafka: a Distributed Messaging System for Log Processing [<a href="/papers/2011 - Kafka: a Distributed Messaging System for Log Processing (NetDB).pdf">pdf</a>]
-<br>Kafka Documentation [<a href="https://kafka.apache.org/documentation/">link</a>]
-<br>A Survey on the Evolution of Stream Processing Systems [<a href="/papers/2020 - A Survey on the Evolution of Stream Processing Systems.pdf">pdf</a>]
+<td valign=top>Spark SQL: Relational Data Processing in Spark [<a href="/papers/2015 - Spark SQL - Relational Data Processing in Spark (SIGMOD).pdf">pdf</a>]
+<br>Spark - The Definitive Guide (Ch. 4-11)
+<br>Learning Spark (Ch. 3-6)
+<br>Spark SQL Documentation [<a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">link</a>]</td>
 </td>
 </tr>
 
@@ -175,14 +172,12 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-21<br>13:00-15:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Stream Processing<br>(Spark Streaming, Beam)</td>
+<td valign=top>Stream Processing<br>(Introduction, Kafka)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters [<a href="/papers/2013 - Discretized Streams: Fault-Tolerant Streaming Computation at Scale (SOSP).pdf">pdf</a>]
-<br>MillWheel: Fault-Tolerant Stream Processing at Internet Scale [<a href="/papers/2013 - MillWheel - Fault-Tolerant Stream Processing at Internet Scale (VLDB).pdf">pdf</a>]
-<br>The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing [<a href="/papers/2015 - The Dataflow Model (VLDB).pdf">pdf</a>]
-<br>Spark - The Definitive Guide (Ch. 20-23)
-<br>Spark Streaming Documentation [<a href="https://spark.apache.org/docs/latest/streaming-programming-guide.html">link</a>]
-<br>Beam Documentation [<a href="https://beam.apache.org/documentation/">link</a>]</td>
+<td valign=top>Kafka: a Distributed Messaging System for Log Processing [<a href="/papers/2011 - Kafka: a Distributed Messaging System for Log Processing (NetDB).pdf">pdf</a>]
+<br>Kafka Documentation [<a href="https://kafka.apache.org/documentation/">link</a>]
+<br>A Survey on the Evolution of Stream Processing Systems [<a href="/papers/2020 - A Survey on the Evolution of Stream Processing Systems.pdf">pdf</a>]
+</td>
 </tr>
 
 <tr>
@@ -216,14 +211,14 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-28<br>13:00-15:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Graph Processing<br>(Pregel, GraphLab, GraphX)</td>
+<td valign=top>Stream Processing<br>(Spark Streaming, Beam)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>Pregel: A System for Large-Scale Graph Processing [<a href="/papers/2010 - Pregel - A System for Large-Scale Graph Processing (SIGMOD).pdf">pdf</a>]
-<br>Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud [<a href="/papers/2012 - Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud (VLDB).pdf">pdf</a>]
-<br>PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs [<a href="/papers/2012 - PowerGraph - Distributed Graph-Parallel Computation on Natural Graphs (OSDI).pdf">pdf</a>]
-<br>GraphX: Graph Processing in a Distributed Dataflow Framework [<a href="/papers/2014 - GraphX - Graph Processing in a Distributed Dataflow Framework (OSDI).pdf">pdf</a>]
-<br>Spark - The Definitive Guide (Ch. 30)
-<br>GraphX Documentation [<a href="https://spark.apache.org/docs/latest/graphx-programming-guide.html">link</a>]</td>
+<td valign=top>Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters [<a href="/papers/2013 - Discretized Streams: Fault-Tolerant Streaming Computation at Scale (SOSP).pdf">pdf</a>]
+<br>MillWheel: Fault-Tolerant Stream Processing at Internet Scale [<a href="/papers/2013 - MillWheel - Fault-Tolerant Stream Processing at Internet Scale (VLDB).pdf">pdf</a>]
+<br>The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing [<a href="/papers/2015 - The Dataflow Model (VLDB).pdf">pdf</a>]
+<br>Spark - The Definitive Guide (Ch. 20-23)
+<br>Spark Streaming Documentation [<a href="https://spark.apache.org/docs/latest/streaming-programming-guide.html">link</a>]
+<br>Beam Documentation [<a href="https://beam.apache.org/documentation/">link</a>]</td>
 </tr>
 
 <tr>
@@ -233,10 +228,14 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-09-29<br>15:00-17:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Resource Management<br>(Mesos, YARN)</td>
+<td valign=top>Graph Processing<br>(Pregel, GraphLab, GraphX)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center [<a href="/papers/2011 - Mesos - A Platform for Fine-Grained Resource Sharing in the Data Center (NSDI).pdf">pdf</a>]
-<br>Apache Hadoop YARN: Yet Another Resource Negotiator [<a href="/papers/2013 - Apache Hadoop YARN - Yet Another Resource Negotiator (SoCC).pdf">pdf</a>]</td>
+<td valign=top>Pregel: A System for Large-Scale Graph Processing [<a href="/papers/2010 - Pregel - A System for Large-Scale Graph Processing (SIGMOD).pdf">pdf</a>]
+<br>Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud [<a href="/papers/2012 - Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud (VLDB).pdf">pdf</a>]
+<br>PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs [<a href="/papers/2012 - PowerGraph - Distributed Graph-Parallel Computation on Natural Graphs (OSDI).pdf">pdf</a>]
+<br>GraphX: Graph Processing in a Distributed Dataflow Framework [<a href="/papers/2014 - GraphX - Graph Processing in a Distributed Dataflow Framework (OSDI).pdf">pdf</a>]
+<br>Spark - The Definitive Guide (Ch. 30)
+<br>GraphX Documentation [<a href="https://spark.apache.org/docs/latest/graphx-programming-guide.html">link</a>]</td>
 </tr>
 
 <tr>
@@ -255,9 +254,10 @@ permalink: /schedule/
 <tr style='background:white'>
 <td valign=top>2021-10-04<br>8:00-10:00</td>
 <td valign=top><a href="">Zoom</a></td>
-<td valign=top>Cloud Data Lakes</td>
+<td valign=top>Resource Management<br>(Mesos, YARN)</td>
 <td valign=top>[slides] [printable] [video]</td>
-<td valign=top>TBA</td>
+<td valign=top>Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center [<a href="/papers/2011 - Mesos - A Platform for Fine-Grained Resource Sharing in the Data Center (NSDI).pdf">pdf</a>]
+<br>Apache Hadoop YARN: Yet Another Resource Negotiator [<a href="/papers/2013 - Apache Hadoop YARN - Yet Another Resource Negotiator (SoCC).pdf">pdf</a>]</td>
 </tr>
 
 <tr>
