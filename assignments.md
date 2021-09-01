@@ -3,7 +3,7 @@ layout: page
 title: Assignments 
 permalink: /assignments/
 ---
-This course consists of six review questions, two lab assignments, and one final project. All the assignments should be done in groups of two and have to be submitted before their deadlines.
+This course consists of five review questions, two lab assignments, and one final project. All the assignments should be done in groups of two and have to be submitted before their deadlines.
 All the assignments are graded A-F, and students should submit them before the deadlines. A late submission will reduce the assignment's grade level by one. That is, A will become B, B will become C,
 and so on. To deliver the labs and the final project, in addition to the source code, students should give an oral presentation of their code and answer questions that include basic and advanced questions.
 The details of the grading are presented in the slides of the introduction lecture
