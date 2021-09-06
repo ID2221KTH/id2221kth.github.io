@@ -14,7 +14,7 @@ The details of the grading are presented in the slides of the introduction lectu
 # **Review Questions**
 We have one review question per week. Each review question has five points.
 
-* **Review questions:** TBA
+* **RQ1:** Distributed filesystems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
 
 <br>
 <hr>
