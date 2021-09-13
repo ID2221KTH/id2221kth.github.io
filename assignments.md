@@ -22,7 +22,11 @@ We have one review question per week. Each review question has five points.
 # **Lab Assignments**
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
-* **Lab 1:** TBA
+* **Lab 1:**
+ In this lab assignment, you will practice the basics of data-intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL and implementing simple applications on them.
+The assignment has two parts. Lab0 is a complete guide on setting up and working with HDFS and HBase and implementing a code using MapReduce. All the codes for Lab0 are given to you, and you need to go
+through the steps to execute them. In the oral presentation, you should show an installed HDFS and HBase on your machine and show you can run the given code. Lab1 is an assignment about Spark and Spark SQL. In this lab, you are given a dataset and a set of questions, and you need to implement codes for each question. As a deliverable, you need to submit the codes and a report showing the results of running your codes for
+each question. You can download the assignment from [here](https://www.dropbox.com/s/h1iyaangmuqt3ms/lab1.zip?dl=0).
 * **Lab 2:** TBA
 
 <br>
