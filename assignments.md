@@ -15,7 +15,7 @@ The details of the grading are presented in the slides of the introduction lectu
 We have one review question per week. Each review question has five points.
 
 * **RQ1:** Distributed filesystems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
-* **RQ1:** MapReduce and Spark [[pdf](/assignments/review_questions2.pdf)]
+* **RQ2:** MapReduce and Spark [[pdf](/assignments/review_questions2.pdf)]
 
 <br>
 <hr>
