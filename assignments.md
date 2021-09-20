@@ -16,6 +16,7 @@ We have one review question per week. Each review question has five points.
 
 * **RQ1:** Distributed filesystems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
 * **RQ2:** MapReduce and Spark [[pdf](/assignments/review_questions2.pdf)]
+* **RQ3:** Spark SQL and stream processing [[pdf](/assignments/review_questions3.pdf)]
 
 <br>
 <hr>
