@@ -30,7 +30,8 @@ The lab assignments span over different topics of the course. For each lab, a zi
 The assignment has two parts. Lab0 is a complete guide on setting up and working with HDFS and HBase and implementing a code using MapReduce. All the codes for Lab0 are given to you, and you need to go
 through the steps to execute them. In the oral presentation, you should show an installed HDFS and HBase on your machine and show you can run the given code. Lab1 is an assignment about Spark and Spark SQL. In this lab, you are given a dataset and a set of questions, and you need to implement codes for each question. As a deliverable, you need to submit the codes and a report showing the results of running your codes for
 each question. You can download the assignment from [here](/assignments/lab1.zip).
-* **Lab 2:** TBA
+* **Lab 2:** 
+In the second lab, you will work with Spark Streaming, Structured Streaming and GraphX. You can download the assignment from [here](/assignments/lab2.zip).
 
 <br>
 <hr>
