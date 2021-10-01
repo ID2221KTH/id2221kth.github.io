@@ -18,6 +18,7 @@ We have one review question per week. Each review question has five points.
 * **RQ2:** MapReduce and Spark [[pdf](/assignments/review_questions2.pdf)]
 * **RQ3:** Spark SQL and stream processing [[pdf](/assignments/review_questions3.pdf)]
 * **RQ4:** Spark streaming and graph processing [[pdf](/assignments/review_questions4.pdf)]
+* **RQ5:** Resource managment and data lake [[pdf](/assignments/review_questions5.pdf)]
 
 <br>
 <hr>
