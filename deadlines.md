@@ -5,20 +5,20 @@ permalink: /deadlines/
 ---
 
 # Review Questions
-* **RQ1:** Sep. 12
-* **RQ2:** Sep. 19
-* **RQ3:** Sep. 26
-* **RQ4:** Oct. 3
-* **RQ5:** Oct. 10
+* **RQ1:** TBA
+* **RQ2:** TBA
+* **RQ3:** TBA
+* **RQ4:** TBA
+* **RQ5:** TBA
 
 <br>
 
 # Lab Assignments
-* **Lab1:** Sep. 26
-* **Lab2:** Oct. 10
+* **Lab1:** TBA
+* **Lab2:** TBA
 
 <br>
 
 # The Final Project
-* **Proposal:** Oct. 1
-* **Project:** Oct. 24
+* **Proposal:** TBA
+* **Project:** TBA

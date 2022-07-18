@@ -14,11 +14,11 @@ The details of the grading are presented in the slides of the introduction lectu
 # **Review Questions**
 We have one review question per week. Each review question has five points.
 
-* **RQ1:** Distributed filesystems and NoSQL databases [[pdf](/assignments/review_questions1.pdf)]
-* **RQ2:** MapReduce and Spark [[pdf](/assignments/review_questions2.pdf)]
-* **RQ3:** Spark SQL and stream processing [[pdf](/assignments/review_questions3.pdf)]
-* **RQ4:** Spark streaming and graph processing [[pdf](/assignments/review_questions4.pdf)]
-* **RQ5:** Resource managment and data lake [[pdf](/assignments/review_questions5.pdf)]
+* **RQ1:** Distributed filesystems and NoSQL databases
+* **RQ2:** MapReduce and Spark
+* **RQ3:** Spark SQL and stream processing
+* **RQ4:** Spark streaming and graph processing
+* **RQ5:** Resource managment and data lake
 
 <br>
 <hr>
@@ -27,12 +27,9 @@ We have one review question per week. Each review question has five points.
 The lab assignments span over different topics of the course. For each lab, a zip file is given that includes instructions for doing the assignment.
 
 * **Lab 1:**
- In this lab assignment, you will practice the basics of data-intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL and implementing simple applications on them.
-The assignment has two parts. Lab0 is a complete guide on setting up and working with HDFS and HBase and implementing a code using MapReduce. All the codes for Lab0 are given to you, and you need to go
-through the steps to execute them. In the oral presentation, you should show an installed HDFS and HBase on your machine and show you can run the given code. Lab1 is an assignment about Spark and Spark SQL. In this lab, you are given a dataset and a set of questions, and you need to implement codes for each question. As a deliverable, you need to submit the codes and a report showing the results of running your codes for
-each question. You can download the assignment from [here](/assignments/lab1.zip).
+In this lab assignment, you will practice the basics of data-intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL and implementing simple applications on them.
 * **Lab 2:** 
-In the second lab, you will work with Spark Streaming, Structured Streaming and GraphX. You can download the assignment from [here](/assignments/lab2.zip).
+In the second lab, you will work with Spark Streaming, Structured Streaming and GraphX.
 
 <br>
 <hr>
