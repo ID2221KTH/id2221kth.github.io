@@ -13,9 +13,9 @@ permalink: /deadlines/
 
 <br>
 
-# Lab Assignments
-* **Lab1:** TBA
-* **Lab2:** TBA
+# The Essay and The Presentation
+* **The essay:** TBA
+* **The presentation:** TBA
 
 <br>
 
