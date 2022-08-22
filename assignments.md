@@ -8,10 +8,14 @@ The course consists of five tasks as listed below:
 <br>
 <h3>Task1</h3>
 Task1 has five sets of review questions, one set of questions per week. Students will work on this task individually and have one week to answer them. This assignment is a pass/fail task.<br>
-<br><br>
+<br>
+<hr>
+<br>
 <h3>Task2</h3>
 Task2 consists of four programming assignments; each focuses on a specific course topic. There is no deadline for this assignment, but we recommend doing each lab after their lectures. During the lab sessions, we go through the lab assignments.<br>
-<br><br>
+<br>
+<hr>
+<br>
 <h3>Task3</h3>
 In Task3, each group will choose one of the course topics and work on that topic by writing an essay and presenting it to their opponents (another group). This task has several steps:
 <ul>
@@ -25,11 +29,13 @@ Grading of this task has the following parts:
 <ul>
 <li>E: Essay - group grade (weight 50%)</li>
 <li>P: Presentation and interaction - group grade (weight 20%)</li>
-<li>Q: Asking questions - individual grade (weight 15%)</li>
-<li>A: Answering questions - individual grade (weight 15%)</li>
+<li>Q: Rewiewing the essay ans asking questions - group grade (weight 20%)</li>
+<li>A: Answering questions - individual grade (weight 10%)</li>
 </ul>
-The final grade is computed as 0.5*E + 0.2*P + 0.15*Q + 0.15*A, where each part's grade is A-F (5-0).
-<br><br><br>
+The final grade is computed as 0.5*E + 0.2*P + 0.2*Q + 0.1*A, where each part's grade is A-F (5-0).
+<br><br>
+<hr>
+<br>
 <h3>Task4</h3>
 In Task4, you should define your own project by writing a one-page description of the project and getting your project proposal approved by the examiner. The project proposal should cover the following headings:
 <ul>
@@ -40,7 +46,9 @@ In Task4, you should define your own project by writing a one-page description o
 </ul>
 You can implement your code using Jupyter Notebook or as a stand-alone application. You should submit a zip file containing your code and a short report (two to three pages) about what you have done, the dataset, your method, your results, and how to run the code. This task is an
 A-F graded task.
-<br><br><br>
+<br><br>
+<hr>
+<br>
 <h3>Task5</h3>
 Task5 is the final exam, including questions from all modules covered in the course. This task grade is also A-F (5-0).
 <br>
@@ -48,4 +56,4 @@ Task5 is the final exam, including questions from all modules covered in the cou
 <hr>
 <br>
 <h2>The Final Grade</h2>
-The final grade of the course is computed as 0.3*Task3 + 0.3*Task4 + 0.4*Task5. To pass the course, students should pass Task1, and the final grade should be greater than E.
+The final grade of the course is computed as 0.3*Task3 + 0.3*Task4 + 0.4*Task5. To pass the course, students should pass Task1, and Tasks 3, 4, and 5 should be greater than E.
