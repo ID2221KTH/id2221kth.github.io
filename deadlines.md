@@ -5,20 +5,21 @@ permalink: /deadlines/
 ---
 
 # Review Questions
-* **RQ1:** TBA
-* **RQ2:** TBA
-* **RQ3:** TBA
-* **RQ4:** TBA
-* **RQ5:** TBA
+* **RQ1:** Sep. 10
+* **RQ2:** Sep. 17
+* **RQ3:** Sep. 24
+* **RQ4:** Oct. 1
+* **RQ5:** Oct. 8
 
 <br>
 
 # The Essay and The Presentation
-* **The essay:** TBA
-* **The presentation:** TBA
+* **The essay:** Oct. 8
+* **The presentation slides:** Oct. 15
 
 <br>
 
 # The Final Project
-* **Proposal:** TBA
-* **Project:** TBA
+* **Proposal:** Oct. 1
+* **Project:** Oct. 30
+
