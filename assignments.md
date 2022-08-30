@@ -15,9 +15,9 @@ Task1 has five sets of review questions, one set of questions per week. Students
 Task2 consists of four programming assignments; each focuses on a specific course topic. There is no deadline for this assignment, but we recommend doing each lab after their lectures. During the lab sessions, we go through the lab assignments.<br>
 <ul>
 <li><b>Lab 1:</b> HDFS, HBase, and Cassandra [<a href="/labs/lab1.pdf">pdf</a>]</li>
-<li><b>Lab 2:</b> Spark and Spark SQL [<a href="/labs/lab2.pdf">pdf</a>][<a href="https://www.dropbox.com/s/jrtoftu5ovjg7vk/lab2_src.zip?dl=0">src</a>]</li>
-<li><b>Lab 3:</b> Spark Streaming [<a href="/labs/lab3.pdf">pdf</a>][<a href="https://www.dropbox.com/s/3cf4lnozyn7jkw8/lab3_src.zip?dl=0">src</a>]</li>
-<li><b>Lab 4:</b> GraphX [<a href="/labs/lab4.pdf">pdf</a>][<a href="https://www.dropbox.com/s/jph3dlsfvcrl1iz/lab4_src.zip?dl=0">src</a>]</li>
+<li><b>Lab 2:</b> Spark and Spark SQL [<a href="/labs/lab2.pdf">pdf</a>] [<a href="https://www.dropbox.com/s/jrtoftu5ovjg7vk/lab2_src.zip?dl=0">src</a>]</li>
+<li><b>Lab 3:</b> Spark Streaming [<a href="/labs/lab3.pdf">pdf</a>] [<a href="https://www.dropbox.com/s/3cf4lnozyn7jkw8/lab3_src.zip?dl=0">src</a>]</li>
+<li><b>Lab 4:</b> GraphX [<a href="/labs/lab4.pdf">pdf</a>] [<a href="https://www.dropbox.com/s/jph3dlsfvcrl1iz/lab4_src.zip?dl=0">src</a>]</li>
 </ul>
 <br>
 <hr>
