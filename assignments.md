@@ -10,7 +10,7 @@ The course consists of five tasks as listed below:
 Task1 has five sets of review questions, one set of questions per week. Students will work on this task individually and have one week to answer them. This assignment is a pass/fail task.<br>
 <ul>
 <li><b>RQ 1:</b> [<a href="/rq/review_questions1.pdf">pdf</a>]</li>
-<li><b>RQ 2:</b> [pdf]</li>
+<li><b>RQ 2:</b> [<a href="/rq/review_questions2.pdf">pdf</a>]</li>
 <li><b>RQ 3:</b> [pdf]</li>
 <li><b>RQ 4:</b> [pdf]</li>
 <li><b>RQ 5:</b> [pdf]</li>
