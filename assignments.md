@@ -11,7 +11,7 @@ Task1 has five sets of review questions, one set of questions per week. Students
 <ul>
 <li><b>RQ 1:</b> [<a href="/rq/review_questions1.pdf">pdf</a>]</li>
 <li><b>RQ 2:</b> [<a href="/rq/review_questions2.pdf">pdf</a>]</li>
-<li><b>RQ 3:</b> [pdf]</li>
+<li><b>RQ 3:</b> [<a href="/rq/review_questions3.pdf">pdf</a>]</li>
 <li><b>RQ 4:</b> [pdf]</li>
 <li><b>RQ 5:</b> [pdf]</li>
 </ul>
