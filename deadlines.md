@@ -5,21 +5,21 @@ permalink: /deadlines/
 ---
 
 # Review Questions
-* **RQ1:** Sep. 10
-* **RQ2:** Sep. 18
-* **RQ3:** Sep. 25
-* **RQ4:** Oct. 2
-* **RQ5:** Oct. 9
+* **RQ1:** Sep. 9
+* **RQ2:** Sep. 16
+* **RQ3:** Sep. 23
+* **RQ4:** Sep. 30
+* **RQ5:** Oct. 7
 
 <br>
 
 # The Essay and The Presentation
-* **The essay:** Oct. 9
-* **The presentation slides:** Oct. 16
+* **The essay:** Oct. 7
+* **The presentation slides:** Oct. 21
 
 <br>
 
 # The Final Project
-* **Proposal:** Oct. 2
-* **Project:** Oct. 30
+* **Proposal:** Sep. 30
+* **Project:** Oct. 21
 
