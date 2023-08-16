@@ -4,10 +4,10 @@ title: Assignments
 permalink: /assignments/
 ---
 <p align="justify">
-The course consists of five tasks as listed below:
+The course consists of five tasks as listed below. All the assignments should be done in groups of two/three students.
 <br>
 <h3>Task1</h3>
-Task1 has five sets of review questions, one set of questions per week. Students will work on this task individually and have one week to answer them. This assignment is a pass/fail task.<br>
+Task1 has five sets of review questions, one set of questions per week. This assignment is a pass/fail task.<br>
 <ul>
 <li><b>TBA</b></li>
 </ul>
@@ -36,12 +36,12 @@ In Task3, each group will choose one of the course topics and work on that topic
 </ul>
 Grading of this task has the following parts:
 <ul>
-<li>E: Essay - group grade (weight 50%)</li>
-<li>P: Presentation and interaction - group grade (weight 20%)</li>
-<li>Q: Rewiewing the essay ans asking questions - group grade (weight 20%)</li>
-<li>A: Answering questions - individual grade (weight 10%)</li>
+<li>E: Essay - group grade (5 points)</li>
+<li>P: Presentation and interaction - group grade (2 points)</li>
+<li>Q: Rewiewing the essay ans asking questions - group grade (2 points)</li>
+<li>A: Answering questions - individual grade (1 point)</li>
 </ul>
-The final grade is computed as 0.5*E + 0.2*P + 0.2*Q + 0.1*A, where each part's grade is A-F (5-0).
+Task3 final grade: A: 10, B: 9, C: 8, D: 7, E: 6, F: <5.
 <br><br>
 <hr>
 <br>
