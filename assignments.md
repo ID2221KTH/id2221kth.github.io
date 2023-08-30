@@ -9,7 +9,11 @@ The course consists of five tasks as listed below. All the assignments should be
 <h3>Task1</h3>
 Task1 has five sets of review questions, one set of questions per week. This assignment is a pass/fail task.<br>
 <ul>
-<li><b>TBA</b></li>
+<li><b>RQ 1:</b> [<a href="/rq/rq1.pdf">pdf</a>]</li>
+<li><b>RQ 2:</b> [<a href="/rq/rq2.pdf">pdf</a>]</li>
+<li><b>RQ 3:</b> [<a href="/rq/rq3.pdf">pdf</a>]</li>
+<li><b>RQ 4:</b> [<a href="/rq/rq4.pdf">pdf</a>]</li>
+<li><b>RQ 5:</b> [<a href="/rq/rq5.pdf">pdf</a>]</li>
 </ul>
 <br>
 <hr>
